@@ -39,6 +39,7 @@ TARGET_INIT_VENDOR_LIB := libinit_ms013g
 TARGET_UNIFIED_DEVICE := true
 
 
+
 # Kernel
 BOARD_KERNEL_BASE := 0x00000000
 BOARD_KERNEL_CMDLINE := console=null androidboot.console=null androidboot.hardware=qcom user_debug=31 msm_rtb.filter=0x37 androidboot.selinux=permissive
